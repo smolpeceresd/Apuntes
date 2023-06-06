@@ -36,7 +36,7 @@ Estudiante:
  - Nombre 
  - Apellidos
  - Curso
- - email
+ - E-mail
 
 Se debe poder : 
 - Anadir un estudiante
