@@ -21,6 +21,7 @@ Letra - Cantidad
  - L   -   1
  - A   -   2
 
+¡¡¡¡IMPORTANTE!!!! -> El elercicio 1 y 2 se debe repetir tantas veces se quiera.
 
 # Ejercicio 3 - Base de datos de la universidad
 
