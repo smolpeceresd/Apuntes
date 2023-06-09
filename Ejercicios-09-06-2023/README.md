@@ -36,8 +36,7 @@ cin>> Carmen
 
 Salida
 
-- Santi 1
-- Carmen 1
+<img width="311" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/4872fef8-22b2-46ac-97fd-f879e3381d58">
 
 ---
 
