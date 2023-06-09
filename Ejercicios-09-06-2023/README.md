@@ -23,16 +23,15 @@ El rey de Constantinopla esta constantinoplizado.
 Consta que Constanza, no lo pudo desconstantinoplizar.
 El desconstantinoplizador que desconstantinoplizare al rey de Constantinopla,buen desconstantinoplizador será.
 
-Se debe buscar la subcadena: Consta. 
+Se debe buscar la subcadena: Consta.
 
 No es CaseSensitive, es decir, la palabra puede tener cualquier estructura de mayúsculas y minúscualas.
 
-
 Realizar de 2 formas:
 
-- Forma corta -> dunción find(). (Mejor opción Recursividad). 
+- Forma corta -> dunción find(). (Mejor opción Recursividad).
 - Sin la función fund().
- 
+
 Salida
 
 Palabra: Santiago
@@ -57,6 +56,17 @@ Salida
 <img width="311" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/4872fef8-22b2-46ac-97fd-f879e3381d58">
 
 ---
+
+Pista->
+
+Para hacer este apartado, es mejor usar la función UpperCAse().
+Cuando decimos que un lenguaje es CaseSensitive, es que distingue entre masyúsculas y minúsculas.
+Para poder encontrar todas las 'A' que hay , debemos contemplar 'A' & 'a'. La forma más sencilla para poder hacer esto es convertir todo el texto a mayúsculas o minúsculas.
+
+Ejemplo de UpperCase() Poner en mayúsculas todo el texto.
+
+std::string str = "Hello World";
+std::transform(str.begin(), str.end(), str.begin(), ::toupper);
 
 A -> 3
 
