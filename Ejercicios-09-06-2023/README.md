@@ -1,7 +1,6 @@
 # Ejercicio 1
 
 - Se debe realizar la función de Fibonazzi de forma recursiva.
-- Se debe hacer una cantidad limitada de veces la cual debe introducir el usuario.
 - Se debe repetir el proceso tantas veces como el usuario quiera.
 - Se debe mostrar el resultado de la función de Fibonazzi.
 
