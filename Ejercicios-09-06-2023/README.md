@@ -16,9 +16,16 @@ IMPORTANTE
 - El texto es predetermiando, si la palabra que se busca no esta en el texto, se debe indicar que esta palabra no existe en el texto.
 - Se debe mostrar la posición donde se encuentra cada ocurrencia.
 - Se debe mostrar el número total de ocurrencias.
+
 El texto:
 
-El amor es una experiencia universal que nos conmueve a todos, pero a veces no hallamos las palabras adecuadas para expresarlo. A lo largo de la historia los poetas han sabido decir aquello que todos sentimos de formas creativas y elocuentes.
+El rey de Constantinopla esta constantinoplizado.
+Consta que Constanza, no lo pudo desconstantinoplizar.
+El desconstantinoplizador que desconstantinoplizare al rey de Constantinopla,buen desconstantinoplizador será.
+
+Se debe buscar la subcadena: Consta. 
+
+No es CaseSensitive, es decir, la palabra puede tener cualquier estructura de mayúsculas y minúscualas.
 
 
 Realizar de 2 formas:
