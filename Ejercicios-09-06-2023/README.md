@@ -66,6 +66,7 @@ Para poder encontrar todas las 'A' que hay , debemos contemplar 'A' & 'a'. La fo
 Ejemplo de UpperCase() Poner en mayúsculas todo el texto.
 
 std::string str = "Hello World";
+
 std::transform(str.begin(), str.end(), str.begin(), ::toupper);
 
 A -> 3
