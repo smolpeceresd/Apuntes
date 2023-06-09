@@ -7,7 +7,7 @@
 IMPORTANTE
 
 - Si el usuario introduce un número negativo, se debe mostrar un mensaje de error y volver a pedir el número.
-- Si se piden 4 números de la sucesión saldrá : 0 1 2 3.
+- Si se piden 4 números de la sucesión saldrá : 0 1 1 2 .
 
 # Ejercicio 2
 
