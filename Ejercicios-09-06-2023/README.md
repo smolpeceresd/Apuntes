@@ -12,9 +12,20 @@ IMPORTANTE
 # Ejercicio 2
 
 - Se debe buscar una subcadena dentro de un texto.
+- La subcadena que se debe buscar la debe introducir el usuario.
+- El texto es predetermiando, si la palabra que se busca no esta en el texto, se debe indicar que esta palabra no existe en el texto.
 - Se debe mostrar la posición donde se encuentra cada ocurrencia.
 - Se debe mostrar el número total de ocurrencias.
+El texto:
 
+El amor es una experiencia universal que nos conmueve a todos, pero a veces no hallamos las palabras adecuadas para expresarlo. A lo largo de la historia los poetas han sabido decir aquello que todos sentimos de formas creativas y elocuentes.
+
+
+Realizar de 2 formas:
+
+- Forma corta -> dunción find(). (Mejor opción Recursividad). 
+- Sin la función fund().
+ 
 Salida
 
 Palabra: Santiago
