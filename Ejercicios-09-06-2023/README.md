@@ -4,11 +4,22 @@
 - Se debe repetir el proceso tantas veces como el usuario quiera.
 - Se debe mostrar el resultado de la función de Fibonazzi.
 
+IMPORTANTE
+
+- Si el usuario introduce un número negativo, se debe mostrar un mensaje de error y volver a pedir el número.
+- Si se piden 4 números de la sucesión saldrá : 0 1 2 3.
+
 # Ejercicio 2
 
 - Se debe buscar una subcadena dentro de un texto.
 - Se debe mostrar la posición donde se encuentra cada ocurrencia.
 - Se debe mostrar el número total de ocurrencias.
+
+Salida
+
+Palabra: Santiago
+Número de repeticiones: 2
+Posiciones : 1, 2 ,3
 
 # Ejercicio 3
 
