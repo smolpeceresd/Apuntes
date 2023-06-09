@@ -20,6 +20,7 @@
 EJEMPLO
 
 cin>> Santiago
+
 cin>> Carmen
 
 Salida
