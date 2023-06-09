@@ -31,13 +31,21 @@ Salida
 ---
 
 A -> 2
+
 C -> 1
+
 E -> 1
+
 I -> 1
+
 M -> 1
+
 N -> 1
+
 R -> 1
+
 S -> 1
+
 T -> 1
 
 # Importante -> Se deben entregar los ejercicios por separado.
