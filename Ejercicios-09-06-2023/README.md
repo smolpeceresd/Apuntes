@@ -48,4 +48,7 @@ S -> 1
 
 T -> 1
 
-# Importante -> Se deben entregar los ejercicios por separado.
+# Importante
+
+- Se deben entregar los ejercicios por separado.
+- Se debe tener en cuenta que tipo de dato es mejor para manejar el almacenaje.
