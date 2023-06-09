@@ -1,63 +1,91 @@
 #include <iostream>
 #include <string>
+#include <vector>
 
 using namespace std;
 
-//ejercicio 1
-char letraUnica(string texto) {
-    int contador = { 0 }; 
-    char letra{ };
+//CARMEN SÁNCHEZ HERNÁNDEZ 
 
-    for (int i{ 0 }; i < texto.size() - 1; i++) { //NO ME SALEEE
-        if (i == letra) {
-            contador++;
+//ejercicio 1
+int letraUnica(const string &texto) {
+    for (int i{ 0 }; i < texto.size(); i++) {  //para recorrer el texto
+        int contador{ 0 };
+        for (char c : texto) {  //para saber cuantas veces se repite 
+            if (texto.at(i) == c) { 
+                contador++; 
+            }
+
         }
-        if (texto.size() == 1) {
+        if (contador == 1) { //exito. una letra no se repite 
             return i;
         }
     }
-    return ' ';
+    return -1;//la posicion no exite, elemento fallido 
 }
 
-
 //ejercicio 2
-void imprimirLetras(const string &texto) {
-    cout << "Texto: " << texto << "\n";
-    cout << "Letra - Cantidad" << "\n";
+struct letra {
+    char letraTexto;
+    int vecesRepet; 
+};
 
-    for (char letra : texto) { 
-        if (letra >= 'a' && letra <= 'z') {
-            int contador = 0; 
+bool busqueda(vector<letra> lista, char letrita) {
+    for (const auto& recorrido : lista) { //recorre el vector lista 
+        if (recorrido.letraTexto == letrita) {
+            return true;
+        }
+    }
+    return false;
+}
 
-            for (char c : texto) {
-                if (c == letra) {
-                    contador++; 
-                }
-            }
+void imprimirLetras(const string &texto) { 
+    vector<letra> lista;  
+    letra letra_mas_repetida{};
 
-            cout << letra << " - " << contador << "\n";
+    for (char letra_estudio : texto) {  //recorre el texto  
+        if (!busqueda(lista, letra_estudio)) {  
+            int repeticiones{ 0 };
+            for (auto letra_recorrido : texto) { 
+                if (letra_recorrido == letra_estudio) {  //para mirar las veces que se repite 
+                    repeticiones++;
+                } 
+            } 
+            //instanciar: 
+            letra new_letra{};
+            new_letra.letraTexto = letra_estudio;
+            new_letra.vecesRepet = repeticiones;
+
+            //introducirlo al vector:
+            lista.push_back(new_letra); 
+
+            //mostrar letra - repet:
+            cout << "\n Letra: " << new_letra.letraTexto << " - Repeticiones: " << new_letra.vecesRepet << "\n";
+            
+            //letra con mas repeticiones: 
+            
         }
     }
 
+    //letra con mas repeticiones:
+    cout << "\n Letra con mas repeticiones: " << letra_mas_repetida.letraTexto << " - Repeticiones: " << letra_mas_repetida.vecesRepet << "\n";
+
 }
-
-
 
 int main() {
     
-    string texto;
-    cout << "Ingrese un texto: ";
-    getline(cin, texto);
+    string texto; 
+    cout << "Ingrese un texto: "; 
+    getline(cin, texto);  
 
-    char letra = letraUnica(texto);
-    if (letra != ' ') {
-        cout << "La primera letra no repetida es: " << letra << "\n";
+    //ejercicio 1 
+    int letra = letraUnica(texto);  
+    if (letra != -1) {
+        cout << "\n la primera letra que no se repite es: " << texto.at(letra) << "\n";
+    }else{
+        cout << "\n se repiten";
     }
-    else {
-        cout << "No hay ninguna letra que no se repita. " << "\n";
-    }
 
-
+    //ejercicio 2
     imprimirLetras(texto);
 
     return 0;
