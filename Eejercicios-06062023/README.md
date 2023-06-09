@@ -44,3 +44,30 @@ Se debe poder :
 - Borrar un estudiante
 - Listar los estudiantes por carrera
 - Listar todos los estudiantes
+
+### Corrección Ejercicio3 Calificación : 😎 REALLY COOL
+- Menú () OK PERFECTO
+- AddEstudiante 3/4 OK 
+
+  Esta perfecto, pero:
+  
+  <img width="345" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/19658ddb-6df3-4cff-9f73-1098c9e8bf38">
+  
+  Metes al estudiante en la base de datos este la opcón o no.
+
+- Borrar estudiante OK
+- Listar por carrera OK
+- Listar todos los estudiantes OK
+
+
+## DATOS:
+
+Muy buena gestión del flujo genereal, y el concepto bien cogido 100/100. 
+
+¡¡ HA SIDO MUY BUENA PRÁCTICA PARA FUTURAS ASIGNATURAS !! 
+
+<img width="425" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/b3caf6b8-0d41-443a-9ddc-e7e82cf9f6f2">
+
+
+
+
