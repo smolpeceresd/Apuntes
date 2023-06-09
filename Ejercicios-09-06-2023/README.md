@@ -69,6 +69,10 @@ std::string str = "Hello World";
 
 std::transform(str.begin(), str.end(), str.begin(), ::toupper);
 
+<img width="472" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/504baf2e-65b5-4f6c-b947-3601d957583c">
+
+
+
 A -> 3
 
 C -> 1
