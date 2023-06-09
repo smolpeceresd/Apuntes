@@ -24,6 +24,7 @@ Posiciones : 1, 2 ,3
 # Ejercicio 3
 
 - Se debe pedir al usuario que introduzca cualquier tipo de texto.
+- La palabra para finalizar el conteo debe ser "Salir".
 - Se debe guardar cuantas veces se cada palabra
 - Adicionalmente se debe calcular el número de veces que que se repite cada letra.
 
