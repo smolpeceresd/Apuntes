@@ -29,7 +29,7 @@ No es CaseSensitive, es decir, la palabra puede tener cualquier estructura de ma
 
 Realizar de 2 formas:
 
-- Forma corta -> dunción find(). (Mejor opción Recursividad).
+- Forma corta -> función find(). (Mejor opción Recursividad).
 - Sin la función fund().
 
 Salida
