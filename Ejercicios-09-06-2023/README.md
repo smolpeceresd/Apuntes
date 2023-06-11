@@ -73,27 +73,18 @@ std::transform(str.begin(), str.end(), str.begin(), ::toupper);
 
 ¡¡¡¡Importante!!!! -> Para poder hacer el UpperCase, añade estas librerías
 
-#include <algorithm>
-
-#include <string>
+ - include <algorithm>
+ - include <string>
   
-A -> 3
 
-C -> 1
+Salida
+  
+  
+  - <img width="198" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/d8d1e659-5440-4886-a6af-c9a28511639b">
+  - <img width="327" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/0eede980-ec1d-452a-85c2-599f05a7425e">
+  - <img width="330" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/296b6721-52a4-4a32-a6a4-62af58190f6e">
 
-E -> 1
-
-I -> 1
-
-M -> 1
-
-N -> 2
-
-R -> 1
-
-S -> 1
-
-T -> 1
+  
 
 # Importante
 
