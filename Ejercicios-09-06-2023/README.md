@@ -34,9 +34,7 @@ Realizar de 2 formas:
 
 Salida
 
-Palabra: Santiago
-Número de repeticiones: 2
-Posiciones : 1, 2 ,3
+<img width="800" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/0d8172e8-f9d8-4466-a716-eb6753f5e3b3">
 
 # Ejercicio 3
 
