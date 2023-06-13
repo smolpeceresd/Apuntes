@@ -4,12 +4,40 @@
 
 using namespace std;
 
-//CARMEN S¡NCHEZ HERN¡NDEZ 
+//CARMEN S√ÅNCHEZ HERN√ÅNDEZ 
+
+struct Letra {
+    char letra;
+    int vecesRepetLetra;
+};
 
 struct Palabra {
     string palabra;
     int vecesRepet;
+    vector<Letra> letrasRepetidas;
 };
+
+//funcion para contar las letras de las palabras introducidas por el usuario
+void contarLetras(const string& palabra, vector<Letra>& letra_a_guardar) {
+    for (char c : palabra) {
+        bool letraExistente = false; 
+        for (auto& letra_estudio : letra_a_guardar) { 
+            if (letra_estudio.letra == c) {  
+                letra_estudio.vecesRepetLetra++; 
+                letraExistente = true; 
+                break;
+            }
+        }
+        if (!letraExistente) {
+            //instanciamos: 
+            Letra newLetra; 
+            newLetra.letra = c; 
+            newLetra.vecesRepetLetra = 1; 
+            //guardamos en el vector 'letra_a_guardar'
+            letra_a_guardar.push_back(newLetra);  
+        }
+    }
+}
 
 int main() {
 
@@ -37,15 +65,26 @@ int main() {
                 Palabra newPalabra; 
                 newPalabra.palabra = palabra; 
                 newPalabra.vecesRepet = 1; 
+                
+                //llamada a la funcion de contar las letras para mirar sus repeticiones 
+                contarLetras(palabra, newPalabra.letrasRepetidas);
+
                 //guardamos en el vector
                 guardarPalabra.push_back(newPalabra);
+
             }
         }
     } while (palabra != "Salir");
 
-    cout << "Palabras - Repeticiones: " << "\n";
-    for (const auto& palabraIngresada : guardarPalabra) {
-        cout << "Palabra: " << palabraIngresada.palabra << " - Repeticiones: " << palabraIngresada.vecesRepet << "\n";
+    cout << "Palabras - Repeticiones: " << "\n"; 
+    for (const auto& palabraIngresada : guardarPalabra) { 
+        cout << "Palabra: " << palabraIngresada.palabra << " - Repeticiones: " << palabraIngresada.vecesRepet << "\n"; 
+        
+        cout << "Letras - Repeticiones: " << "\n"; 
+        for (const auto& letra : palabraIngresada.letrasRepetidas) {
+            cout << "Letra: " << letra.letra << " - Repeticiones: " << letra.vecesRepetLetra << "\n"; 
+        }
+        cout << "\n"; 
     }
 
     return 0;
