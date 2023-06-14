@@ -1,13 +1,32 @@
 # Ejercicio 1
 
-- Se debe realizar la función de Fibonazzi de forma recursiva.
-- Se debe repetir el proceso tantas veces como el usuario quiera.
-- Se debe mostrar el resultado de la función de Fibonazzi.
+- Se debe realizar la función de Fibonazzi de forma recursiva. -> KO No has hecho recursividad.
+- Se debe repetir el proceso tantas veces como el usuario quiera. -> OK 
+- Se debe mostrar el resultado de la función de Fibonazzi. -> OK 
 
 IMPORTANTE
 
-- Si el usuario introduce un número negativo, se debe mostrar un mensaje de error y volver a pedir el número.
-- Si se piden 4 números de la sucesión saldrá : 0 1 1 2 .
+- Si el usuario introduce un número negativo, se debe mostrar un mensaje de error y volver a pedir el número. -OK
+- Si se piden 4 números de la sucesión saldrá : 0 1 1 2 . ->OK 
+
+## Resolucion Ejercicio 1 4 OK 1 KO => Realmente KO , si lo califico es un 0.  ☹️ 
+
+- Una función VOID que tiene un return ? NUNCA.
+
+<img width="480" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/c41e3b09-83bb-45b4-829f-47c451d0050b">
+
+- Mala gestión del negativo.
+
+<img width="454" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/d49d3414-6a83-406e-99fd-33961d8b0006">
+
+- Esto no es la eficiencia de la recursividad.
+
+<img width="320" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/1af90daa-f320-445b-80bc-1417f991f8ad">
+
+- Intentas forzar el cierre del programa y en caso de ser intencionado, no lo hace.
+
+<img width="484" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/dc2ecbc1-5148-4cfa-bc9f-2ebf309c64d5">
+
 
 # Ejercicio 2
 
@@ -38,11 +57,11 @@ Salida
 
 # Ejercicio 3
 
-- Se debe pedir al usuario que introduzca cualquier tipo de texto.
-- La palabra para finalizar el conteo debe ser "Salir".
-- Se debe guardar cuantas veces se escribe cada palabra.
-- Adicionalmente se debe calcular el número de veces que que se repite cada letra (La mejor opcion es la recursividad).
-- Para este ejercicio la base de datos debe estar dentro del main.
+- Se debe pedir al usuario que introduzca cualquier tipo de texto. -> OK
+- La palabra para finalizar el conteo debe ser "Salir". -> OK
+- Se debe guardar cuantas veces se escribe cada palabra. -> OK
+- Adicionalmente se debe calcular el número de veces que que se repite cada letra (La mejor opcion es la recursividad). -> KO
+- Para este ejercicio la base de datos debe estar dentro del main. -> Ok
   EJEMPLO
 
 cin>> Santiago
@@ -90,3 +109,24 @@ Salida
 
 - Se deben entregar los ejercicios por separado.
 - Se debe tener en cuenta que tipo de dato es mejor para manejar el almacenaje.
+  
+# Reolución del ejercicio 3 -> 4 OK 1 KO -> Funciona el flujo, pero con la rúbrica de abajo, diría que estaría suspenso, no hace lo que pido: 3 ☹️ 
+- No tiene la misma salida. 
+  
+- No cuenta el número de veces que aparece una letra 
+  
+<img width="420" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/dafd83b5-ef18-4839-86b1-7fad979c08db">
+  
+-  Si meto la misma palabra 2 veces, en el funcionamiento normal, no cuenta el numero de veces que aparece la letra, y en este caso, no lo cueta 2 veces. 
+  
+<img width="451" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/8b84693a-1777-4e34-b9a8-cc3cc2c9065c">
+
+- Creas la estructura para no usarla
+  
+ <img width="172" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/c5dfde32-1112-4003-8380-275532542799">
+
+- Generas una función VOID en la que cuentas el número de letras y lo guardas en un vector que es un parámetro de la función ( muy mala practica )
+  
+ <img width="544" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/ec147316-07b1-4fe6-ac09-c6a32be02705">
+  
+ - No se ha hecho el UpperCase()
