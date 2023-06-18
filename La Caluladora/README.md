@@ -4,7 +4,7 @@
 
 La calculadora que se va a realizar es una calculadora básica que permita realizar las operaciones básicas de suma, resta, multiplicación y división.
 
-Se debe poder realizar realizar operaciones con números decimales y números negativos.
+Se debe poder realizar realizar operaciones con números decimales.
 
 ## Funcionalidades
 
