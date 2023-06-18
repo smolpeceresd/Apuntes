@@ -31,17 +31,6 @@ De puede realizar de 2 maneras:
 
 - Se valorará la buena gestion de almacenamiento de datos. => KO
 
-    - No es posible poner números decimales
-    - Declaras la variable Operando como float
-
-      <img width="450" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/54ff8f45-3159-4ad8-b1d5-2fd3325bfc56">
-
-      Que más tarde es gestioanda con Strings
-
-      <img width="450" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/bba92406-199d-4472-b952-d918a8192bfe">
-
-
-
 - Se valorará la utilización de recursividad en el caso de que pueda realizarse. => KO 
 
 - Se valorará la utilización de bucles en el caso de que pueda realizarse. => OK
@@ -66,6 +55,14 @@ De puede realizar de 2 maneras:
     - No se deben operar Strings , conviertelos a números. De este modo podrías haber hecho el ejercicio completo.
  
       <img width="521" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/75ebefe8-8564-41c7-844c-bdb0e1e0d885">
+
+    - Declaras la variable Operando como float
+
+      <img width="450" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/54ff8f45-3159-4ad8-b1d5-2fd3325bfc56">
+
+      Que más tarde es gestioanda con Strings
+
+      <img width="450" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/bba92406-199d-4472-b952-d918a8192bfe">
 
 -  Las excepciones de errores:
     - Los try Catch no funcionan
