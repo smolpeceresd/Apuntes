@@ -46,7 +46,7 @@ De puede realizar de 2 maneras:
 
 -  Cuidado con la gestión de tipos.
   
--  El ingual no entra en el ejemplo, se sale de lo que he pedido. ( para el examen el enunciando es el enunciado, no lo inventes ).
+-  El símbolo '=' ingual no entra en el ejemplo, se sale de lo que he pedido. ( para el examen el enunciando es el enunciado, no lo inventes ).
 
 -  La operacíón de (C-'0') no es recomendable.
 
@@ -81,7 +81,7 @@ De puede realizar de 2 maneras:
 
     - Esta bien diseñado
 
-    - Esta ben para practicar, pero no he pedido que se haga en bucle. Se sale de lo que pone en el encunciado. Repito. no te lo inventes, es el que es.
+    - Esta bien para practicar, pero no he pedido que se haga en bucle. Se sale de lo que pone en el encunciado.
 
         <img width="410" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/9e895704-4e7f-431b-874c-d082af07c1eb">
 
