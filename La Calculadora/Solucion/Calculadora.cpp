@@ -5,11 +5,11 @@ using namespace std;
 
 
 float calculadora(const vector<int> &index_operadores,const string &operacion,int index,float resultado){
-
+    string n1;
     if(index == 0 ){
-        string n1=operacion.substr(0,(index_operadores.at(0)-0));
+        n1=operacion.substr(0,(index_operadores.at(0)-0));
         string n2;
-        float n1_{stof(n1)};
+        float n1_{stof(n1)}; /*Convertir a float */
         if(index==index_operadores.size()-1){
             n2=operacion.substr(index_operadores.at(index)+1,((operacion.size()-1)-index_operadores.at(index)));
             float n2_{stof(n2)};
@@ -52,7 +52,7 @@ float calculadora(const vector<int> &index_operadores,const string &operacion,in
             return 0.0;
         }
     }else if (index==index_operadores.size()-1){
-        string n1=operacion.substr(index_operadores.at(index)+1,((operacion.size()-1)-index_operadores.at(index)));
+        n1=operacion.substr(index_operadores.at(index)+1,((operacion.size()-1)-index_operadores.at(index)));
         float n1_{stof(n1)};
         switch (operacion.at(index_operadores.at(index))) {
         case '+':
@@ -70,7 +70,7 @@ float calculadora(const vector<int> &index_operadores,const string &operacion,in
         }
 
     }else{
-        string n1=operacion.substr(index_operadores.at(index)+1,(index_operadores.at(index+1)-index_operadores.at(index)+1));
+        n1=operacion.substr(index_operadores.at(index)+1,(index_operadores.at(index+1)-index_operadores.at(index)+1));
         float n1_{stof(n1)};
         switch (operacion.at(index_operadores.at(index))) {
         case '+':
