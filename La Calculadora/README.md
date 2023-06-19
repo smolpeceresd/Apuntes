@@ -29,7 +29,7 @@ De puede realizar de 2 maneras:
 
 - Se valorará la utilización de funciones. => OK 
 
-- Se valorará la buena gestion de almacenamiento de datos. => KO
+- Se valorará la buena gestion de almacenamiento de datos. => OK
 
 - Se valorará la utilización de recursividad en el caso de que pueda realizarse. => KO 
 
