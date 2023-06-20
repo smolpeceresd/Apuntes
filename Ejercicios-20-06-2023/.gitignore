@@ -32,5 +32,4 @@
 *.app
 
 #SMD
-
-Soluciones/Ejercicio_1.cpp
+Soluciones\*
