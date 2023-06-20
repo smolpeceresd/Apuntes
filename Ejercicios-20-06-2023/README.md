@@ -32,7 +32,8 @@ Se debe realizar un programa que relice lo siguiente:
 
 Salida:
 
-<img width="850" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/67ad9be0-1da2-494d-914a-008d5b994bf0">
+<img width="946" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/0faaad03-91b5-4e40-9189-22f7fd1a9c25">
+
 
 ## Requisitos
 
