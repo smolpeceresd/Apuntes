@@ -2,9 +2,7 @@
 
 Dado el siguiente texto:
 
-el rey de constantinopla esta constantinoplizado.
-consta que constanza, no lo pudo desconstantinoplizar.
-el desconstantinoplizador que desconstantinoplizare al rey de constantinopla,buen desconstantinoplizador sera.
+el rey de constantinopla esta constantinoplizado. consta que constanza, no lo pudo desconstantinoplizar. el desconstantinoplizador que desconstantinoplizare al rey de constantinopla buen desconstantinoplizador sera.
 
 - Mostrar por pantalla la cantidad de letras que tiene el texto.
 - Mostrar por pantalla la cantidad de palabras que tiene el texto.
