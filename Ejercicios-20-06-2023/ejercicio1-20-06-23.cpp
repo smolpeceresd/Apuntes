@@ -44,7 +44,6 @@ int cantidadPalabras(const string& texto) {
 }
 
 string encontrarPalabraMasLarga(string texto, int longitud) {
-	char espacio = texto.find(' ');
 	string palabra{};
 
 	int longitudPalabra = palabra.length();
@@ -57,8 +56,7 @@ string encontrarPalabraMasLarga(string texto, int longitud) {
 	}
 }
 
-string encontrarPalabraMasCorta(string texto, int longitud) {
-	char espacio = texto.find(' '); 
+string encontrarPalabraMasCorta(string texto, int longitud) { 
 	string palabra{}; 
 
 	int longitudPalabra = palabra.length();
