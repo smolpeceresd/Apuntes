@@ -17,8 +17,7 @@ el rey de constantinopla esta constantinoplizado. consta que constanza, no lo pu
 
 Salida:
 
-<img width="854" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/da62403d-9441-4a22-98aa-b32fb408ddcc">
-
+<img width="858" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/eff4108c-ce4c-4682-ae7e-9547998186df">
 
 # Ejercio 2
 
@@ -29,11 +28,10 @@ Se debe realizar un programa que relice lo siguiente:
 - Se debe mostrar por pantalla
   - Todos los números generados.
   - Los números que pertenezcan a la serie de Fibonacci ordenados.
- 
 
 Salida:
 
-<img width="850" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/67ad9be0-1da2-494d-914a-008d5b994bf0">
+<img width="946" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/0faaad03-91b5-4e40-9189-22f7fd1a9c25">
 
 ## Requisitos
 
