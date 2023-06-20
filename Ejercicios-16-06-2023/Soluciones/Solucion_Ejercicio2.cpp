@@ -6,7 +6,7 @@ bool buscaPalabra(const string &texto2, const string &palabra)
 {
     cout << "\nBuscando la palabra \"" << palabra << "\" en el texto \"" << texto2 << "\"";
     int encontrada = texto2.find(palabra, 0);
-    if (encontrada > 1)
+    if (encontrada >= 0)
     {
         return true;
     }
