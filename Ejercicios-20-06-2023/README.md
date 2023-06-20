@@ -17,6 +17,11 @@ el desconstantinoplizador que desconstantinoplizare al rey de constantinopla,bue
 - Se debe utilizar funciones
 - Se debe utilizar una buena gestión de datos.
 
+Salida:
+
+<img width="854" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/da62403d-9441-4a22-98aa-b32fb408ddcc">
+
+
 # Ejercio 2
 
 Se debe realizar un programa que relice lo siguiente:
@@ -26,6 +31,11 @@ Se debe realizar un programa que relice lo siguiente:
 - Se debe mostrar por pantalla
   - Todos los números generados.
   - Los números que pertenezcan a la serie de Fibonacci ordenados.
+ 
+
+Salida:
+
+<img width="850" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/67ad9be0-1da2-494d-914a-008d5b994bf0">
 
 ## Requisitos
 
