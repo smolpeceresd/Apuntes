@@ -17,7 +17,8 @@ el rey de constantinopla esta constantinoplizado. consta que constanza, no lo pu
 
 Salida:
 
-<img width="854" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/da62403d-9441-4a22-98aa-b32fb408ddcc">
+<img width="858" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/eff4108c-ce4c-4682-ae7e-9547998186df">
+
 
 # Ejercio 2
 
