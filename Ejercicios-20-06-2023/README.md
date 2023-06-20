@@ -19,7 +19,6 @@ Salida:
 
 <img width="858" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/eff4108c-ce4c-4682-ae7e-9547998186df">
 
-
 # Ejercio 2
 
 Se debe realizar un programa que relice lo siguiente:
@@ -33,7 +32,6 @@ Se debe realizar un programa que relice lo siguiente:
 Salida:
 
 <img width="946" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/0faaad03-91b5-4e40-9189-22f7fd1a9c25">
-
 
 ## Requisitos
 
