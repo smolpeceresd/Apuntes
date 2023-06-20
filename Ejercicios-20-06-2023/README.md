@@ -2,9 +2,7 @@
 
 Dado el siguiente texto:
 
-el rey de constantinopla esta constantinoplizado.
-consta que constanza, no lo pudo desconstantinoplizar.
-el desconstantinoplizador que desconstantinoplizare al rey de constantinopla,buen desconstantinoplizador sera.
+el rey de constantinopla esta constantinoplizado. consta que constanza, no lo pudo desconstantinoplizar. el desconstantinoplizador que desconstantinoplizare al rey de constantinopla buen desconstantinoplizador sera.
 
 - Mostrar por pantalla la cantidad de letras que tiene el texto.
 - Mostrar por pantalla la cantidad de palabras que tiene el texto.
@@ -21,7 +19,6 @@ Salida:
 
 <img width="854" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/da62403d-9441-4a22-98aa-b32fb408ddcc">
 
-
 # Ejercio 2
 
 Se debe realizar un programa que relice lo siguiente:
@@ -31,7 +28,6 @@ Se debe realizar un programa que relice lo siguiente:
 - Se debe mostrar por pantalla
   - Todos los números generados.
   - Los números que pertenezcan a la serie de Fibonacci ordenados.
- 
 
 Salida:
 
