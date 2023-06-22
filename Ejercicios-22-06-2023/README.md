@@ -34,7 +34,8 @@ Se debe pedir por teclado 5 números, y con estos se debe hacer:
 
 ## Salida
 
-<img width="296" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/d24155c8-1d5f-4aff-82c2-424a0bcd8e22">
+
+<img width="394" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/834b634a-abbc-4e2f-a0f3-11a87871392c">
 
 
 
