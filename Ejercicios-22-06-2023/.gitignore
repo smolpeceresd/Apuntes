@@ -31,4 +31,4 @@
 *.out
 *.app
 
-Soluciones/*
+Soluciones/*.cpp
