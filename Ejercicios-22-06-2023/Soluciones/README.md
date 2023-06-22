@@ -21,6 +21,10 @@ Se debe pedir por teclado 5 palabras, y con estas se debe hacer:
 - Para saber si una palabra es palíndromo se debe hacer con recursividad.
 - Para saber que palabra contiene el mayor número de letras se debe hacer con recursividad.
 
+## Salida
+
+<img width="433" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/2de8e55e-6c5c-460a-816d-a7cee9e3ebd7">
+
 # Ejercicio 2
 
 Se debe pedir por teclado 5 números, y con estos se debe hacer:
