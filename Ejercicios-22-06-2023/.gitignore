@@ -30,8 +30,7 @@
 *.exe
 *.out
 *.app
-#SMD
-*.md
-#SMD 2
+#SMD-Enunciado
+#SMD-Soluciones
 Soluciones/*
 
