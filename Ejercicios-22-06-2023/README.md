@@ -27,7 +27,7 @@ Se debe pedir por teclado 5 palabras, y con estas se debe hacer:
 
 # Ejercicio 2
 
-Se debe pedir por teclado 5 números, y con estos se debe hacer:
+Se debe pedir por teclado 6 números, y con estos se debe hacer:
 
 - Mostrarlos ordenados de menor a mayor.
 - Mostrarlos ordenados de mayor a menor.
