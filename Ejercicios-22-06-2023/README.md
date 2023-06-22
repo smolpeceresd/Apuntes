@@ -32,15 +32,21 @@ Se debe pedir por teclado 5 números, y con estos se debe hacer:
     Ejemplo: 4! = 24
 - Decir si este número pertenece a la serie de Fibonacci.
 
+## Salida
+
+<img width="296" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/d24155c8-1d5f-4aff-82c2-424a0bcd8e22">
+
+
+
 ## Requisitos
 
 - Para saber si un número pertenece a la serie de Fibonacci, se debe hacer con recursividad.
 
-# Calificacion
+# Calificación
 
-- Se deben entregar los ejercicios por separado
-- Se valorará el uso de funciones y recursividad
-- Se valorará el buen uso de los tipos de datos
-- Se valorará la eficiencia del código
-- Se valorará el uso de comentarios
-- Se valorará el uso de nombres de variables y funciones adecuados
+- Se deben entregar los ejercicios por separado.
+- Se valorará el uso de funciones y recursividad.
+- Se valorará el buen uso de los tipos de datos.
+- Se valorará la eficiencia del código.
+- Se valorará el uso de comentarios.
+- Se valorará el uso de nombres de variables y funciones adecuados.
