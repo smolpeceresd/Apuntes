@@ -28,6 +28,14 @@ Dado el siguiente conjunto de números: { 1,4,2,6,9}
 
 # Ejercicio 5
 
-calcula el factorial de 4
+calcula el factorial de 9
 
 De todos los números que forma su factorial, dime cuantos de ellos son pares y cuantos impares, y además, dime cuantos de ellos son primos.
+
+# Ejercicio 6
+
+Dado el siguiente conjunto de números: {1,4,2}
+
+- Obten y muestra los factorales de cada uno de ellos.
+- De todos ellos, indica cuantos hay pares e impares en cada uno de ellos y en total.
+- De todos ellos indica cual es la moda.
