@@ -10,3 +10,9 @@ Dado el texto: "Las flores crecen en primavera y las alergias se disparan.";
 
 - Debes mostrar el número de palabras que contiene.
 - Debes indicar los indices de los espacios que contiene.
+
+# Ejercicio 3
+
+Dado el texto: "Las flores crecen en primavera y las alergias se disparan.";
+
+- Dime cuantas veces aparece cada vocal.
