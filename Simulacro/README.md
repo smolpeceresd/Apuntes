@@ -42,9 +42,9 @@ Dado el siguiente conjunto de números: {1,4,2}
 
   5\*4 = 20 - Obtener
 
-  5*4*3 = 60 - Obtener
+  5\*4\*3 = 60 - Obtener
 
-  5*4*3\*2 = 120 - Obtener
+  5\*4\*3\*2 = 120 - Obtener
 
 - De todos ellos, indica cuantos hay pares e impares en cada uno de ellos y en total.
 - De todos ellos indica cual es la moda.
