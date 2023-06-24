@@ -9,7 +9,7 @@ array<int,15> Fibonacci(const array<int,15> &a, int n0,int n1,int iteracion){
      * n1 el segundo operador
      * iteracion, el número de veces que he de operear, como necesito 15,
      * He de tener en cuenta que las array se llenan con las posiciones
-     * por tant son 15-1 == size-1 = 14
+     * por tanto son 15-1 == size-1 = 14
      * Luego necesito llegar a las 14 iteraciones.
      * si llego a las 14 iteraciones == Caso de exito.
      *

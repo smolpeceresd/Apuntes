@@ -16,3 +16,12 @@ Dado el texto: "Las flores crecen en primavera y las alergias se disparan.";
 Dado el texto: "Las flores crecen en primavera y las alergias se disparan.";
 
 - Dime cuantas veces aparece cada vocal.
+
+# Ejercicio 4
+
+Dado el siguiente conjunto de números: { 1,4,2,6,9}
+
+- Ordena los números de menor a mayor.
+- Ordena los números de mayor a menor.
+- Calcula la media de estos números.
+- Calcula el Factorial de los números pares.
