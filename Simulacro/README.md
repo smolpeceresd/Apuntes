@@ -6,7 +6,7 @@
 
 # Ejercicio 2
 
-Dado el texto: "";
+Dado el texto: "Las flores crecen en primavera y las alergias se disparan.";
 
 - Debes mostrar el número de palabras que contiene.
 - Debes indicar los indices de los espacios que contiene.
