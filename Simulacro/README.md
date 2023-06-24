@@ -47,3 +47,6 @@ Dado el siguiente conjunto de números: {1,4,2}
   5\*4\*3\*2 = 120 - Obtener
 
 - De todos ellos, indica cuantos hay pares e impares en cada uno de ellos y en total.
+
+<img width="314" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/54b0b01a-1c04-464c-909b-c31538be1280">
+
