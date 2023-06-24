@@ -50,3 +50,7 @@ Dado el siguiente conjunto de números: {1,4,2}
 
 <img width="314" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/54b0b01a-1c04-464c-909b-c31538be1280">
 
+# Ejercicio 7
+
+<img width="481" alt="image" src="https://github.com/carmenschez5/Apuntes/assets/54994511/3fb5f22b-48e4-49de-94ea-95a43a33a90b">
+
