@@ -25,3 +25,9 @@ Dado el siguiente conjunto de números: { 1,4,2,6,9}
 - Ordena los números de mayor a menor.
 - Calcula la media de estos números.
 - Calcula el Factorial de los números pares.
+
+# Ejercicio 5
+
+calcula el factorial de 4
+
+De todos los números que forma su factorial, dime cuantos de ellos son pares y cuantos impares, y además, dime cuantos de ellos son primos.
